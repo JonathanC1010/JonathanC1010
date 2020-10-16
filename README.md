@@ -1,6 +1,5 @@
 ### Welcome <img alt='Hi' width="28" src="https://www.flaticon.com/svg/static/icons/svg/27/27287.svg">
 
-<br/>
 
 <p>
 - 🌱 I’m currently learning:  German <img alt="" width="28" src="https://www.flaticon.com/svg/static/icons/svg/2105/2105658.svg" />
@@ -10,7 +9,7 @@
 - 💬 Talk to me about: Programming, cars, motorsport, tech.
   </p>
 
-<br/>
+
 
 [![JonathanC1010's github stats](https://github-readme-stats.vercel.app/api?username=JonathanC1010&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanC1010&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
