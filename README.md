@@ -1,8 +1,8 @@
-### Welcome <img alt='Hi' width="28" src="https://www.flaticon.com/svg/static/icons/svg/27/27287.svg">
+## Welcome <img alt='Hi' width="25" src="https://www.flaticon.com/svg/static/icons/svg/27/27287.svg">
 
 
 <p>
-- 🌱 I’m currently learning:  German <img alt="" width="28" src="https://www.flaticon.com/svg/static/icons/svg/2105/2105658.svg" />
+- 🌱 I’m currently learning:  German <img alt="" width="20" src="https://www.flaticon.com/svg/static/icons/svg/2105/2105658.svg" />
   <br/>
 - 📫 How to reach me: 00128819@uca.edu.sv
   <br/>
