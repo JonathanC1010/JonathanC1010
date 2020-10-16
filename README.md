@@ -13,8 +13,8 @@
 
 
 
-[![JonathanC1010's github stats](https://github-readme-stats.vercel.app/api?username=JonathanC1010&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanC1010&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![JonathanC1010's github stats](https://github-readme-stats.vercel.app/api?username=JonathanC1010&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanC1010&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
   <br/><br/><br/>
