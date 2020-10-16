@@ -1,10 +1,11 @@
 ## Welcome <img alt='Hi' width="28" src="https://www.flaticon.com/svg/static/icons/svg/27/27287.svg">
 <br/>
-### JonathanC1010's 
 <a href="https://www.instagram.com/nocontextmotorsport/">
   <img align="left" alt="JonathanC1010's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  ### JonathanC1010's 
 </a>
 
+<br/>
 - 🌱 I’m currently learning:  German <img alt='Hi' width="28" src="https://www.flaticon.com/svg/static/icons/svg/2105/2105658.svg">
 - 📫 How to reach me: 00128819@uca.edu.sv
 - 💬 Talk to me about: Programming, cars, motorsport, tech.
