@@ -15,5 +15,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanC1010&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.instagram.com/jonathanc1010/">
-  JonathanC1010's <img align="left" alt="JonathanC1010's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="JonathanC1010's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
