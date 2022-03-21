@@ -6,7 +6,7 @@
   <br/>
 - 📫 How to reach me: 00128819@uca.edu.sv
   <br/>
-- 💬 Talk to me about: Programming, cars, motorsport, tech.
+- 💬 Talk to me about: Programming, cars, motorsport, tech, watches, airplanes.
   </p>
 
 <br/>
