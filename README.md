@@ -21,8 +21,8 @@
 
 
 <a href="https://www.instagram.com/jonathanc1010/">
-  <img align="left" alt="JonathanC1010's Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+  <img align="left" alt="JonathanC1010's Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 <a href="https://www.paypal.me/JonC15">
-  <img align="left" alt="JonathanC1010's Paypal" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174861.svg" />
+  <img align="left" alt="JonathanC1010's Paypal" width="30px" src="https://cdn-icons-png.flaticon.com/512/888/888870.png" />
 </a>
