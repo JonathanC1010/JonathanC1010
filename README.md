@@ -1,4 +1,4 @@
-## Welcome <img alt='Hi' width="37" src="https://www.flaticon.com/svg/static/icons/svg/27/27287.svg">
+## Welcome
 
 
 <p>
